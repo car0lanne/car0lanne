@@ -12,9 +12,3 @@
 </th> 
   </tr>
 </table>
-
-# goals ⭐️
-
-- [ ] find a workplace team
-- [ ] learn basic Python and SQL
-- [ ] work with PowerBI or Tableau
