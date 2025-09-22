@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-# skills
+# skills 🎨
 
 - [ ] QA
 - [ ] UI/UX
