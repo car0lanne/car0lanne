@@ -12,3 +12,9 @@
 </th> 
   </tr>
 </table>
+
+# skills
+
+- [ ] QA
+- [ ] UI/UX
+- [ ] HTML/CSS
